@@ -67,7 +67,7 @@
             button1.FlatAppearance.BorderColor = Color.FromArgb(64, 64, 64);
             button1.FlatStyle = FlatStyle.Flat;
             button1.ForeColor = Color.White;
-            button1.Location = new Point(126, 416);
+            button1.Location = new Point(126, 404);
             button1.Name = "button1";
             button1.Size = new Size(75, 23);
             button1.TabIndex = 15;
